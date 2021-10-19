@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Emiltonn/emiltonn/master/image/undraw_dev_productivity_umsq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Emiltonn">
 
-#### Mudar para Português/BR: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](translation/english/README.en.md)</kbd>
+#### Mudar para Português/BR: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](../../README.md)</kbd>
 
 <p align="left"> 
  :wave: Hi, I am Emanuel Milton. I'm <strong>Fullstack Developer</strong>.
