@@ -1,21 +1,21 @@
-<!--<img src="https://raw.githubusercontent.com/Emiltonn/emiltonn/master/image/undraw_dev_productivity_umsq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Emiltonn">-->
+<img src="https://raw.githubusercontent.com/Emiltonn/emiltonn/master/image/undraw_dev_productivity_umsq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Emiltonn">
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
+#### Mudar para Português/BR: <kbd>[<img title="Português" alt="Português" src="../../flags/br.jpg" width="22">](translation/english/README.en.md)</kbd>
 
 <p align="left"> 
  :wave: Hi, I am Emanuel Milton. I'm <strong>Fullstack Developer</strong>.
 </p>
 
 <p align="left">
- :rocket: Habilidades: <strong>HTML, CSS, JavaScript, NodeJs, Php, Laravel, ReactJS, VueJs, Angular2+.</strong>
+ :rocket: Skills: <strong>HTML, CSS, JavaScript, NodeJs, Php, Laravel, ReactJS, VueJs, Angular2+.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Docker, Trello, Linux, Git e GitHub.</strong>
+  💼 Tools: <strong>VSCode, Docker, Trello, Linux, Git e GitHub.</strong>
 </p>
 
 <p align="left">
- :speech_balloon: Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+ :speech_balloon: If you want to chat with me, don't hesitate to send me a message.
 </p>
 
 <p align="left">

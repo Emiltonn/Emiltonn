@@ -1,4 +1,4 @@
-<!--<img src="https://raw.githubusercontent.com/Emiltonn/emiltonn/master/image/undraw_dev_productivity_umsq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Emiltonn">-->
+<img src="https://raw.githubusercontent.com/Emiltonn/emiltonn/master/image/undraw_dev_productivity_umsq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Emiltonn">
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="flags/eua.png" width="22">](translation/english/README.en.md)</kbd>
 
