@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
- :rocket: Habilidades: <strong>HTML, CSS, JavaScript, NodeJs, Php, Laravel, ReactJS, VueJs, Angular2+.</strong>
+ :rocket: Habilidades: <strong>HTML, CSS, JavaScript, NodeJs, Spring, Php, Java, Laravel, ReactJS, VueJs, Angular2+.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Docker, Trello, Linux, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Docker, Trello, Jira, Linux, Git e GitHub.</strong>
 </p>
 
 <p align="left">
